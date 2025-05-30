@@ -35,5 +35,3 @@ This project covers foundational Flutter concepts including UI creation, navigat
 
 ---
 
-## 📂 Project Structure Example
-
